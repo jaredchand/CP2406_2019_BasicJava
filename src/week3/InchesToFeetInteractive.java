@@ -12,6 +12,6 @@ public class InchesToFeetInteractive {
         inches = input.nextInt();
         feet = inches/12;
         remainingInches = inches%12;
-        System.out.printf("That is equal to: %d feet %d inches", feet, remainingInches);
+        System.out.printf("Converts to: %d feet %d inches", feet, remainingInches);
     }
 }
