@@ -5,8 +5,8 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class InchesToFeetTest {
-    @Test void printValues() {
+    @Test void checkConvert() {
         InchesToFeet inchestofeet = new InchesToFeet();
-        inchestofeet.printValues();
+        inchestofeet.convertAndPrintValues();
     }
 }

@@ -1,10 +1,13 @@
 package week3;
 
 public class InchesToFeet {
-    final int INCHES = 86;
-    double feet = INCHES * 0.08333;
 
-    void printValues() {
-        System.out.println(INCHES + " Inches " + "is " + feet + " Feet ");
+    void convertAndPrintValues() {
+        int inches = 86;
+        int feet = inches /12;
+        int remainingInches = inches%12;
+        System.out.println("Inches " + inches);
+        System.out.printf("That is equal to: %d feet %d inches", feet, remainingInches);
+
     }
 }
