@@ -7,7 +7,7 @@ public class InchesToFeet {
         int feet = inches /12;
         int remainingInches = inches%12;
         System.out.println("Inches " + inches);
-        System.out.printf("That is equal to: %d feet %d inches", feet, remainingInches);
+        System.out.printf("Converts to: %d feet %d inches", feet, remainingInches);
 
     }
 }
