@@ -4,7 +4,7 @@ package week5;
 import javax.swing.*;
 public class DebugFive4
 {
-   public static void main (String args[])
+   public static void main (String [] args)
    {
       int one, two, three, four;
       String str, output;
