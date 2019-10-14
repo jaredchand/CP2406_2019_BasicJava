@@ -11,7 +11,6 @@ public class TwelveInts {
             System.out.println("Please enter a number: ");
             integers[i] = scanner.nextInt();
         }
-
         for (int integer :integers) System.out.println(integer + " ");
 
         for (int i =(integers.length-1); i>=0; i--)

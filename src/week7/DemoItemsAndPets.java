@@ -32,7 +32,7 @@ public class DemoItemsAndPets {
         System.out.println(pet1.getVaccinated());
         System.out.println(pet1.getNeutered());
         System.out.println(pet1.getHouseBroken());
-        
+
         System.out.println("Pet 2: ");
         System.out.println(pet2.getNumber());
         System.out.println(pet2.getDescription());
