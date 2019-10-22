@@ -1,4 +1,4 @@
-package week9.CodingExercises;
+package week9.CodingExercises.Q1Quote;
 
 import javax.swing.*;
 
