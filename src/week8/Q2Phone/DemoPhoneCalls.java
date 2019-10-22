@@ -1,4 +1,4 @@
-package week8;
+package week8.Q2Phone;
 
 public class DemoPhoneCalls {
     public static void main(String[] args) {

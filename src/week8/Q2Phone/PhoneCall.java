@@ -1,4 +1,4 @@
-package week8;
+package week8.Q2Phone;
 
 abstract class PhoneCall {
     String phoneNumber;

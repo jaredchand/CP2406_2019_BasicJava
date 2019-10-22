@@ -1,4 +1,4 @@
-package week8;
+package week8.Q3Divison;
 
 public class UseDivision {
     public static void main(String[] args) {

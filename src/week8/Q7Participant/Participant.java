@@ -1,4 +1,4 @@
-package week8;
+package week8.Q7Participant;
 
 public class Participant {
     private String name;

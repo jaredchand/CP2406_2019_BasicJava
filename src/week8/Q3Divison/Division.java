@@ -1,4 +1,4 @@
-package week8;
+package week8.Q3Divison;
 
 abstract class Division {
     private String divisionName;

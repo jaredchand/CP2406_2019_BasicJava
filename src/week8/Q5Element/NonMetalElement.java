@@ -1,4 +1,4 @@
-package week8;
+package week8.Q5Element;
 
 class NonMetalElement extends Element {
     NonMetalElement(String symbol, int atomicNumber, double atomicWeight){

@@ -1,4 +1,4 @@
-package week8;
+package week8.Q1Book;
 
 public class NonFiction extends Book {
     NonFiction(String title){

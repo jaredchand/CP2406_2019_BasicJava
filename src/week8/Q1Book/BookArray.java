@@ -1,4 +1,4 @@
-package week8;
+package week8.Q1Book;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package week8;
+package week8.Q5Element;
 
 class MetalElement extends Element{
     MetalElement(String symbol, int atomicNumber, double atomicWeight){

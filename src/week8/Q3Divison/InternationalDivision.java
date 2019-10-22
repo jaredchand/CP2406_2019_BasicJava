@@ -1,4 +1,4 @@
-package week8;
+package week8.Q3Divison;
 
 class InternationalDivision extends Division {
     private String country;

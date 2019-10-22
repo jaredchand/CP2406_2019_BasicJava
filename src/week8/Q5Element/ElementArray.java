@@ -1,4 +1,4 @@
-package week8;
+package week8.Q5Element;
 
 public class ElementArray {
     public static void main(String[] args) {

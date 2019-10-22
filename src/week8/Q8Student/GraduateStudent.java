@@ -1,4 +1,4 @@
-package week8;
+package week8.Q8Student;
 
 class GraduateStudent extends Student{
     GraduateStudent(int id, String lastName){

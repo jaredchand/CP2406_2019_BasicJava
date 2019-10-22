@@ -1,4 +1,4 @@
-package week8;
+package week8.Q8Student;
 
 public class StudentDemo {
     public static void main(String[] args) {

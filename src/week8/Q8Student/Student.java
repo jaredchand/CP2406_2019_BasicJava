@@ -1,4 +1,4 @@
-package week8;
+package week8.Q8Student;
 
 abstract class Student {
     private int id;
